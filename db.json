@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Health CheckUp",
+      "day": "July 7 at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Grocery",
+      "day": "July 7 at 4:30pm",
+      "reminder": false
+    },
+    {
+      "text": "Test Sleep",
+      "day": "July 7 at 10:00pm",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
